@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
