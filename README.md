@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2236-root-equals-sum-of-children) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2236-root-equals-sum-of-children) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
