@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 ## Game Theory
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
