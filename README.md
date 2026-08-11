@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
