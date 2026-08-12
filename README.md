@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2236-root-equals-sum-of-children](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2236-root-equals-sum-of-children) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Lowest Common Ancestor
 |  |
@@ -407,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
