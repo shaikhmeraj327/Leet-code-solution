@@ -40,16 +40,14 @@ public:
                 int mini=findMini(root->right)->val;
                 root->val=mini;
                 root->right=deleteNode(root->right,mini);
-                return root;
             }
         }
         else if(root->val>key){
             root->left=deleteNode(root->left,key);
-            return root;
         }
         else {
             root->right=deleteNode(root->right,key);
-            return root;
+            
         }
         return root;
     }
