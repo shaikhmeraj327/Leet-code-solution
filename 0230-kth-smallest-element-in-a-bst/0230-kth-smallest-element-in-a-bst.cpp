@@ -13,6 +13,7 @@ class Solution {
 public:
     void solve(TreeNode* root,int &k,int &ans){
         if(root==NULL)return;
+        if(ans!=-1)return ;
         solve(root->left,k,ans);
         k--;
         if(k==0){
