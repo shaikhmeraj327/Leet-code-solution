@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
