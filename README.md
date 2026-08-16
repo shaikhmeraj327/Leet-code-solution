@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
