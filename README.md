@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
 ## Quicksort
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
