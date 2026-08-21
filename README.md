@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1510-stone-game-iv) |
+| [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
+| [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
