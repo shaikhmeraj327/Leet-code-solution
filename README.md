@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
 ## Quicksort
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
