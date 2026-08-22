@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
