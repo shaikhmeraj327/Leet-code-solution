@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0437-path-sum-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 ## Bracket Sequences
 |  |
@@ -571,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0005-longest-palindromic-substring) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
