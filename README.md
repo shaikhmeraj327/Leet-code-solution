@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0207-course-schedule) |
 | [0513-find-bottom-left-tree-value](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
