@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0014-longest-common-prefix) |
+| [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0205-isomorphic-strings) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -600,5 +604,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
