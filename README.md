@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
@@ -657,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
