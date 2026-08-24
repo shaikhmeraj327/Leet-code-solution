@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3310-remove-methods-from-project) |
 ## String
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -522,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -537,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -646,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
