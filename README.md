@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -553,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
