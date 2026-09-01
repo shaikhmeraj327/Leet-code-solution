@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -765,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1934-confirmation-rate) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
