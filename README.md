@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -816,5 +818,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
