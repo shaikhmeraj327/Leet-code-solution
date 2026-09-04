@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
