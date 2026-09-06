@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
