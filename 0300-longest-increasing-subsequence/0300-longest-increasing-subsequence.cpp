@@ -2,22 +2,43 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<int>currRow(n+1,0);
-        vector<int>prevRow(n+1,0);
-        for(int curr=n-1;curr>=0;curr--){
-            for(int prev=curr;prev>=-1;prev--){
-                int include=0;
-                if(prev==-1 || nums[curr]>nums[prev]){
-                    include=1+currRow[curr+1];
-                } 
-                int exclude=0+currRow[prev+1];
-                prevRow[prev+1]=max(include,exclude);
+        if(n==0)return 0;
+        vector<int>ans;
+        for(int i=0;i<n;i++){
+            if(ans.empty() || nums[i]>ans.back()){
+                ans.push_back(nums[i]);
             }
-            currRow=prevRow;
+            else{
+                int ind=lower_bound(ans.begin(),ans.end(),nums[i])-ans.begin();
+                ans[ind]=nums[i];
+            }
         }
-        return currRow[0];
+        return ans.size();
     }
 };
+
+
+
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n=nums.size();
+//         vector<int>currRow(n+1,0);
+//         vector<int>prevRow(n+1,0);
+//         for(int curr=n-1;curr>=0;curr--){
+//             for(int prev=curr;prev>=-1;prev--){
+//                 int include=0;
+//                 if(prev==-1 || nums[curr]>nums[prev]){
+//                     include=1+currRow[curr+1];
+//                 } 
+//                 int exclude=0+currRow[prev+1];
+//                 prevRow[prev+1]=max(include,exclude);
+//             }
+//             currRow=prevRow;
+//         }
+//         return currRow[0];
+//     }
+// };
 
 
         
