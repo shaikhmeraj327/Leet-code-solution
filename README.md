@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
