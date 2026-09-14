@@ -1,37 +1,67 @@
 class Solution {
 public:
     int maxSizeSlices(vector<int>& slices) {
-        int n=slices.size();
-        int k=n/3;
-        vector<vector<int>>dp1(n+2,vector<int>(k+1,0));
-        vector<vector<int>>dp2(n+2,vector<int>(k+1,0));
-        for(int ind=n-2;ind>=0;ind--){
+         int n=slices.size();
+         int k=n/3;
+         vector<int>prev1(k+1,0);
+         vector<int>curr1(k+1,0);
+         vector<int>next1(k+1,0);
+         for(int ind=n-2;ind>=0;ind--){
             for(int j=1;j<=k;j++){
-                int take=slices[ind]+dp1[ind+2][j-1];
-                int notTake=0+dp1[ind+1][j];
-                dp1[ind][j]=max(take,notTake);
+                int take=slices[ind]+next1[j-1];
+                int notTake=0+curr1[j];
+                prev1[j]=max(take,notTake);
             }
-        }
-        int ans1=dp1[0][k];
-        for(int ind=n-1;ind>=1;ind--){
+            next1=curr1;
+            curr1=prev1;
+         }
+         vector<int>prev2(k+1,0);
+         vector<int>curr2(k+1,0);
+         vector<int>next2(k+1,0);
+         for(int ind=n-1;ind>=1;ind--){
             for(int j=1;j<=k;j++){
-               int take=slices[ind]+dp2[ind+2][j-1];
-               int notTake=0+dp2[ind+1][j]; 
-               dp2[ind][j]=max(take,notTake);
+                int take=slices[ind]+next2[j-1];
+                int notTake=0+curr2[j];
+                prev2[j]=max(take,notTake);
             }
-        }
-
-        int ans2=dp2[1][k];
-        return max(ans1,ans2);
+            next2=curr2;
+            curr2=prev2;
+         }
+         return max(curr1[k],curr2[k]);
     }
-
 };
 
 
 
 
+// class Solution {
+// public:
+//     int maxSizeSlices(vector<int>& slices) {
+//         int n=slices.size();
+//         int k=n/3;
+//         vector<vector<int>>dp1(n+2,vector<int>(k+1,0));
+//         vector<vector<int>>dp2(n+2,vector<int>(k+1,0));
+//         for(int ind=n-2;ind>=0;ind--){
+//             for(int j=1;j<=k;j++){
+//                 int take=slices[ind]+dp1[ind+2][j-1];
+//                 int notTake=0+dp1[ind+1][j];
+//                 dp1[ind][j]=max(take,notTake);
+//             }
+//         }
+//         int ans1=dp1[0][k];
+//         for(int ind=n-1;ind>=1;ind--){
+//             for(int j=1;j<=k;j++){
+//                int take=slices[ind]+dp2[ind+2][j-1];
+//                int notTake=0+dp2[ind+1][j]; 
+//                dp2[ind][j]=max(take,notTake);
+//             }
+//         }
 
+//         int ans2=dp2[1][k];
+//         return max(ans1,ans2);
+//     }
 
+// };
 
 // class Solution {
 // public:
