@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1510-stone-game-iv) |
