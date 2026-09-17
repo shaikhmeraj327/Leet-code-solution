@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0072-edit-distance) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
