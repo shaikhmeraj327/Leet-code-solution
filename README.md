@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1824-minimum-sideway-jumps](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
