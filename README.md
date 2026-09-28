@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0983-minimum-cost-for-tickets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
