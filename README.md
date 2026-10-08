@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
