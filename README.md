@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1092-shortest-common-supersequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1092-shortest-common-supersequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1143-longest-common-subsequence) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1143-longest-common-subsequence) |
 ## Complete Knapsack
 |  |
