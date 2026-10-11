@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1096-brace-expansion-ii) |
+| [1106-parsing-a-boolean-expression](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1096-brace-expansion-ii) |
+| [1106-parsing-a-boolean-expression](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1106-parsing-a-boolean-expression) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
