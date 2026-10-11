@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0733-flood-fill) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -794,10 +796,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0354-russian-doll-envelopes) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
