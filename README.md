@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0118-pascals-triangle) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Linked List
