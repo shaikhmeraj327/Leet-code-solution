@@ -10,64 +10,28 @@
  */
 class Solution {
 public:
-    //efficient method( space o(1))
     ListNode* oddEvenList(ListNode* head) {
-        if(head==NULL || head->next==NULL || head->next->next==NULL){
-            return head;
+        ListNode* evenHead=new ListNode(-1);
+        ListNode* oddHead=new ListNode(-1);
+        ListNode* even=evenHead;
+        ListNode* odd=oddHead;
+        ListNode* ptr=head;
+        int count=1;
+        while(ptr){
+            if(count%2==1){
+                odd->next=ptr;
+                odd=odd->next;
+            }
+            else {
+                even->next=ptr;
+                even=even->next;
+            }
+            ptr=ptr->next;
+            count++;
         }
-        ListNode*odd=head;
-        ListNode* even=head->next;
-        ListNode* evenHead=even;
-        while(even!=NULL && even->next!=NULL){
-            odd->next=even->next;
-            odd=odd->next;
-             even->next=odd->next;
-             even=even->next;
-        }
-        odd->next=evenHead;
-        return head;
-     
-
-    }
-
-
-
-
-
-    // void insertAtTail(ListNode*&tail,int data){
-    //     ListNode*temp=new ListNode(data);
-    //     tail->next=temp;
-    //     tail=tail->next;
-    // }
-    // ListNode* oddEvenList(ListNode* head) {
-    //     if(head==NULL || head->next==NULL || head->next->next==NULL){
-    //         return head;
-    //     }
-    //     ListNode*ptr=head;
-    //     ListNode*dummyNode=new ListNode(-1);
-    //     ListNode*dummyHead=dummyNode;
-    //     ListNode*dummyTail=dummyNode;
-    //     while(ptr!=NULL){
-    //         insertAtTail(dummyTail,ptr->val);
-    //         if (ptr->next != NULL) {
-    //             ptr = ptr->next->next;
-    //         } else {
-    //             break;
-    //         }
-    //     }
-    //     ptr=head->next;
-    //     while(ptr!=NULL){
-    //         insertAtTail(dummyTail,ptr->val);
-    //         if (ptr->next != NULL) {
-    //             ptr = ptr->next->next;
-    //         } else {
-    //             break;
-    //         }
-    //     }
-    //     dummyHead=dummyNode->next;
-    //     delete dummyNode;
-    //     return dummyHead;
-
+        even->next=NULL;
+        odd->next=evenHead->next;
+        return oddHead->next;
         
-    // }
+    }
 };
