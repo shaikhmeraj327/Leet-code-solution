@@ -11,15 +11,15 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        int count=1;
-        if(head==NULL || head->next==NULL)return head;
         ListNode* curr=head;
-        while(curr->next){
-            curr=curr->next;
+        if(head==NULL)return NULL;
+        int count=1;
+        while(curr->next ){
             count++;
+            curr=curr->next;
         }
         k=k%count;
-        k=count-k;// do left rotation ehich will be similiar to right rotation
+        k=count-k;
         curr->next=head;
         while(k>0){
             curr=curr->next;
@@ -28,9 +28,5 @@ public:
         head=curr->next;
         curr->next=NULL;
         return head;
-
     }
 };
-
-
-
