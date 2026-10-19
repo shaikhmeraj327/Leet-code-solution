@@ -13,6 +13,7 @@ public:
                 }
             }
         }
+        
         int direction[4][2]={{0,1},{0,-1},{1,0},{-1,0}};
         while(!q.empty()){
             int size=q.size();
@@ -22,17 +23,18 @@ public:
                 int x=temp.first;
                 int y=temp.second;
                 for(auto d:direction){
-                    int x1=x+d[0];
-                    int y1=y+d[1];
-                    if((x1>=0 && x1<m) &&(y1>=0 && y1<n)&&(res[x1][y1]==-1)){
-                        res[x1][y1]=res[x][y]+1;
-                        q.push({x1,y1});
+                    int nx=x+d[0];
+                    int ny=y+d[1];
+                    if((nx>=0 && nx<m) &&(ny>=0 && ny<n) && res[nx][ny]==-1){
+                        res[nx][ny]=1+res[x][y];
+                        q.push({nx,ny});
                     }
+                    
                 }
-
             }
         }
+
         return res;
+
     }
 };
-
