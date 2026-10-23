@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3731-find-missing-elements) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
