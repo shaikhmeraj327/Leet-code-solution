@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
