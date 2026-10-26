@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1922-count-good-numbers) |
