@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
