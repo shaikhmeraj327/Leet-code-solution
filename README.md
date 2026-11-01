@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1402-reducing-dishes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
