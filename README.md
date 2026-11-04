@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3731-find-missing-elements) |
@@ -932,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
 |  |
 | ------- |
