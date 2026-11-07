@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1824-minimum-sideway-jumps](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
 | [1631-path-with-minimum-effort](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
