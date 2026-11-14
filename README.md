@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
