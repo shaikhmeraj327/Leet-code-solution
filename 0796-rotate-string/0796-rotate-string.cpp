@@ -5,7 +5,7 @@ public:
         int m=goal.size();
         if(n!=m)return false;
         s=s+s;
-        if(s.find(goal)!=string :: npos)return true;
+        if(s.find(goal)!=string:: npos)return true;
         return false;
     }
 };
