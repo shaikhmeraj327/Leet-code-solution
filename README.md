@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2592-maximize-greatness-of-an-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
