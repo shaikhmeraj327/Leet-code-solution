@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0088-merge-sorted-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0100-same-tree) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0127-word-ladder) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0131-palindrome-partitioning) |
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0200-number-of-islands) |
