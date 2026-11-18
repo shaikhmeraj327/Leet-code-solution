@@ -1,27 +1,23 @@
 class Solution {
 public:
-    void solve(vector<int>&arr,int target,vector<int>&output,vector<vector<int>>&ans,int index,int n){
-          if(index>=n){
+    void solve(vector<int>&candidates,int ind,int target,vector<int>&output,vector<vector<int>>&ans){
+        if(ind>=candidates.size()){
             if(target==0)ans.push_back(output);
             return;
-          }
-          // include;
-          if(target-arr[index]>=0){
-            output.push_back(arr[index]);
-            solve(arr,target-arr[index],output,ans,index,n);
+        }
+        if(target-candidates[ind]>=0){
+            output.push_back(candidates[ind]);
+            solve(candidates,ind,target-candidates[ind],output,ans);
             output.pop_back();
-          }
-          //exclude
-          solve(arr,target,output,ans,index+1,n);
-
-
+        }
+        solve(candidates,ind+1,target,output,ans);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>output;
+        int ind=0;
         vector<vector<int>>ans;
-        int n=candidates.size();
-        solve(candidates,target,output,ans,0,n);
+        vector<int>output;
+        solve(candidates,ind,target,output,ans);
         return ans;
     }
 };
