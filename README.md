@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2592-maximize-greatness-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2592-maximize-greatness-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2592-maximize-greatness-of-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
