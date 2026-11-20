@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0542-01-matrix) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
