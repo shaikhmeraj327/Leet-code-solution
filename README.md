@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Lifting
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0402-remove-k-digits) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
