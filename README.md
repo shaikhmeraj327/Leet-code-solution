@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Lifting
 |  |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2104-sum-of-subarray-ranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2104-sum-of-subarray-ranges) |
@@ -1261,4 +1264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
