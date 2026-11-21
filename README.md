@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0232-implement-queue-using-stacks) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0232-implement-queue-using-stacks) |
