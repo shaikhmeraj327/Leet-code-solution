@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [2104-sum-of-subarray-ranges](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
