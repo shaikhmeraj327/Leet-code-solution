@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0049-group-anagrams) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0085-maximal-rectangle) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
