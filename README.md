@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0283-move-zeroes) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0743-network-delay-time) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1238,10 +1241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Algorithm X
 |  |
@@ -1255,4 +1260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
