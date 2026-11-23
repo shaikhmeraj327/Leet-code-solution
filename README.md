@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1388-pizza-with-3n-slices) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Lifting
 |  |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -1288,4 +1292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaikhmeraj327/Leet-code-solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
